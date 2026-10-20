@@ -6,7 +6,7 @@
     "show_banner_ad": true,
     "show_interstitial_ad": true,
     "show_rewarded_ad_on_download": false,
-    "interstitial_click_interval": 3,
+    "interstitial_click_interval": 10,
     "android_banner_id": "ca-app-pub-8031698289736023/4155795984",
     "android_interstitial_id": "ca-app-pub-8031698289736023/2842714319",
     "android_rewarded_id": "ca-app-pub-8031698289736023/1529632640"
