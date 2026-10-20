@@ -7,9 +7,9 @@
     "show_interstitial_ad": true,
     "show_rewarded_ad_on_download": false,
     "interstitial_click_interval": 3,
-    "android_banner_id": "ca-app-pub-3940256099942544/6300978111",
-    "android_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-    "android_rewarded_id": "ca-app-pub-3940256099942544/5224354917"
+    "android_banner_id": "ca-app-pub-8031698289736023/4155795984",
+    "android_interstitial_id": "ca-app-pub-8031698289736023/2842714319",
+    "android_rewarded_id": "ca-app-pub-8031698289736023/1529632640"
   },
   "ui_config": {
     "app_title": "4K Wallpapers",
